@@ -7,10 +7,10 @@
 | Favorite food | Asian Food |
 | Pinneapple on pizza | - [ ] Yes - [x] No |
 ### Hobbies
-*Musiques
-..*Metal
-..*Nordic/Folk
-..*Rap
-..*Electro
-*Graphisme
-*Tattoo
+* Musiques 
+..* Metal
+..* Nordic/Folk
+..* Rap
+..* Electro
+* Graphisme
+* Tattoo
