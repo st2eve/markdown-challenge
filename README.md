@@ -23,4 +23,4 @@ En faisant de l'urbex avec une amie, on est tombé sur des gens très louche fai
 ###### TL;DR
 Ne faites pas d'urbex la nuit en trop petit commité
 
-[<< Précédent] [Steeve Houbart](https://github.com/st2eve/markdown-challenge.git) [Suivant >>]
+[<< Précédent](https://github.com/LydiaHaway/markdown-challenge.git) [Steeve Houbart](https://github.com/st2eve/markdown-challenge.git) [Suivant >>](https://github.com/TanguyIglesias/personal-intro.git)
